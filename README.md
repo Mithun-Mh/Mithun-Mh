@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, It's Mithun MH</h1>
-<h3 align="center">A passionate frontend developer from SL</h3>
+<h3 align="center">Enthusiastic IT Undergraduate->>Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunmh&label=Profile%20views&color=0e75b6&style=flat" alt="mithunmh" /> </p>
+
+- 🔭 I’m currently studying at **SLIIT**
 
 - 🌱 I’m currently learning **Java,Mern**
 
