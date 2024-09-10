@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1>It's Mithun Appuhamy there</h1>
-<br>🚀 3rd Year Undergraduate at SLIIT | Sri Lanka Institute of Information Technology.<br><br>🌱Passionate on UI/UX || Data Science Core Fields <br><br>💬 Ask me about anything code-related, from algorithms to web development!<br><br>⚡ Fun fact: MithunMH 
+<h1>It's Mithun Appuhamy there 📊👨‍💻</h1>
+<br>🚀 3rd Year Undergraduate at SLIIT | Sri Lanka Institute of Information Technology.<br><br>📌Passionate on UI/UX || Data Science Core Fields 📌<br><br>💬 Ask me about anything code-related, from algorithms to web development!<br><br>⚡ Fun fact: MithunMH 
 
 
 ## 🌐 Socials:
