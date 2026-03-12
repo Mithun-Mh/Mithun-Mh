@@ -4,7 +4,7 @@
 
 🎓 **Final Year IT Undergraduate** at **SLIIT — Sri Lanka Institute of Information Technology**
 
-🚀 Passionate about **Business Intelligence, Data Analytics, Business Automation, and Full-Stack Development**
+🚀 Passionate about **Business Intelligence, Data Engineering, Data Analytics, Business Automation, and AI-Full-Stack Development**
 
 ---
 
@@ -16,6 +16,13 @@
 * Data Visualization & Dashboarding
 * Data Warehousing Concepts
 * Business Decision Intelligence
+
+🛢️ **Data Engineering**
+
+* Designing scalable data pipelines
+* ETL / ELT workflows for data processing
+* Data integration from multiple sources
+* Building reliable data infrastructure for analytics systems
 
 ☁️ **Cloud Data & Infrastructure**
 
@@ -62,6 +69,10 @@
 
 * Power BI | Tableau  |Excel Analytics | Data Visualization
 
+**Data Engineering**
+
+* ETL Concepts | Data Pipelines | Data Warehousing Fundamentals
+
 **Cloud & Infrastructure**
 
 * AWS (Learning) | Azure (Learning) | Google Cloud Fundamentals
@@ -72,11 +83,12 @@
 * **n8n Workflow Automation**
 * API Integration
 
-**Development**
+**UI/UX and Development**
 
 * MERN Stack (MongoDB, Express, React, Node.js)
 * .NET Web API
 * React Native
+* Figma 
 
 ---
 
