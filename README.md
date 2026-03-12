@@ -1,6 +1,79 @@
-# 💫 About Me:
-<h1>It's Mithun Appuhamy there 📊👨‍💻</h1>
-<br>🚀 3rd Year Undergraduate at SLIIT | Sri Lanka Institute of Information Technology.<br><br>📌Passionate on UI/UX || Data Science Core Fields 📌<br><br>💬 Ask me about anything code-related, from algorithms to web development!<br><br>⚡ Fun fact: MithunMH 
+# 💫 About Me
+
+<h1>It's Mithun Appuhamy here 📊👨‍💻</h1>
+
+🎓 **Final Year IT Undergraduate** at **SLIIT — Sri Lanka Institute of Information Technology**
+
+🚀 Passionate about **Business Intelligence, Data Analytics, Business Automation, and Full-Stack Development**
+
+---
+
+## 🔍 My Core Interests
+
+📊 **Business Intelligence & Data Analytics**
+
+* SQL Data Analysis
+* Data Visualization & Dashboarding
+* Data Warehousing Concepts
+* Business Decision Intelligence
+
+⚙️ **Business Automation**
+
+* Workflow automation using **n8n**
+* API integrations for automated business pipelines
+* Data flow automation between systems
+
+💻 **Full-Stack Development**
+
+* MERN Stack Development
+* REST API Development
+* Database Design & Backend Logic
+
+🎨 **UI/UX Engineering**
+
+* Designing intuitive digital experiences
+* Translating business requirements into user-centric interfaces
+
+---
+
+## 🧠 What I Enjoy Working On
+
+✔ Building **data-driven systems that support business decisions**
+✔ Designing **automated workflows that reduce manual work**
+✔ Creating **dashboards and insights from raw data**
+✔ Developing **scalable full-stack applications**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**
+
+* SQL | Python | JavaScript | Kotlin
+
+**Data & BI**
+
+* Power BI | Excel Analytics | Data Visualization
+
+**Automation**
+
+* **n8n Workflow Automation**
+* API Integration
+
+**Development**
+
+* MERN Stack (MongoDB, Express, React, Node.js)
+* .NET Web API
+* React Native
+
+---
+
+💬 **Ask me about:**
+Business Intelligence • Data Analytics • Workflow Automation • Full-Stack Development
+
+⚡ **Fun Fact:**
+I enjoy turning **raw business data into meaningful insights and automated systems that improve decision making.**
+
 
 
 ## 🌐 Socials:
