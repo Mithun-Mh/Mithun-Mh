@@ -17,6 +17,13 @@
 * Data Warehousing Concepts
 * Business Decision Intelligence
 
+☁️ **Cloud Data & Infrastructure**
+
+* Cloud-based data platforms and analytics systems
+* Data pipelines and scalable data architectures
+* Deploying data applications on cloud platforms
+* Learning modern cloud ecosystems such as AWS, Azure, and Google Cloud
+
 ⚙️ **Business Automation**
 
 * Workflow automation using **n8n**
@@ -49,11 +56,16 @@
 
 **Languages & Tools**
 
-* SQL | Python | JavaScript | Kotlin
+* SQL | Python | Next.js | React Native
 
 **Data & BI**
 
-* Power BI | Excel Analytics | Data Visualization
+* Power BI | Tableau  |Excel Analytics | Data Visualization
+
+**Cloud & Infrastructure**
+
+* AWS (Learning) | Azure (Learning) | Google Cloud Fundamentals
+* Cloud-based data deployment concepts
 
 **Automation**
 
