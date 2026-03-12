@@ -79,12 +79,125 @@ I enjoy turning **raw business data into meaningful insights and automated syste
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100074627900638) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mithunmh_19/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-appuhamy-998a8423a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
-# 💻 Tech Stack:
-
 <img width="20%" align="left" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*IvmMBuPVpwX2zfMfRe_DlQ.jpeg" />
-<img width="25%" align="right" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif" />
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a><br> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a><br> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> </p>
+<img width="25%" align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 
+<h2 align="center">📊 Data Intelligence & AI Engineering Stack</h2>
+
+---
+
+### 🧠 Programming & Query Languages
+<p align="center">
+
+<a href="https://www.python.org/">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="50" height="50"/>
+</a>
+
+</p>
+
+---
+
+### 📊 Data Analytics & Visualization
+<p align="center">
+
+<a href="https://pandas.pydata.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.tableau.com/">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50"/>
+</a>
+
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+<p align="center">
+
+<a href="https://scikit-learn.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://pytorch.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://jupyter.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+</a>
+
+</p>
+
+---
+
+### ⚙️ Business Automation & Data Pipelines
+<p align="center">
+
+<a href="https://n8n.io/">
+<img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" width="50" height="50"/>
+</a>
+
+<a href="https://airflow.apache.org/">
+<img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/>
+</a>
+
+</p>
+
+---
+
+### 🗄️ Databases & Storage
+<p align="center">
+
+<a href="https://www.mongodb.com/">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="50" height="50"/>
+</a>
+
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mithun-Mh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mithun-Mh&theme=dark&hide_border=false)<br/>
