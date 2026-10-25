@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:4c1d95,100:0891b2&height=260&section=header&text=MITHUN%20APPUHAMY&fontSize=54&fontColor=e9d5ff&fontAlignY=42&desc=⟨%20agentic%20AI%20%C3%97%20devops%20%C3%97%20automation%20⟩&descSize=18&descColor=67e8f9&descAlignY=64" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=2200&color=67E8F9&center=true&vCenter=true&width=760&height=40&lines=%3E+Agentic+AI+%C2%B7+DevOps+%C2%B7+Cloud+%C2%B7+Automation;%3E+Ready+for+production+client+projects+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=2000&color=67E8F9&center=true&vCenter=true&width=860&height=40&lines=🎓+SLIIT+—+Sri+Lanka+Institute+of+Information+Technology,+Malabe;🏫+Joseph+Vaz+College,+Wennappuwa;Agentic+AI+·+DevOps+·+Cloud+·+Automation+🚀" />
 
 <br/><br/>
 
@@ -20,7 +20,8 @@
 ```yaml
 name:        Mithun Appuhamy
 role:        Agentic AI Developer · DevOps · Automation
-education:   BSc (Hons) Information Technology — SLIIT 🇱🇰
+education:   BSc (Hons) Information Technology — SLIIT, Malabe 🇱🇰
+school:      Joseph Vaz College, Wennappuwa
 mission:     Build AI agents that don't just answer — they act, ship and scale
 stack_mode:  [agentic_ai: 90%, devops: always_on, ui_ux: obsessed]
 availability: Local + International client projects · Remote-friendly
@@ -152,4 +153,3 @@ $ status --now
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4c1d95,100:0d1117&height=120&section=footer&text=let's%20build%20something%20intelligent&fontSize=18&fontColor=e9d5ff&fontAlignY=68" width="100%"/>
 
 </div>
-
