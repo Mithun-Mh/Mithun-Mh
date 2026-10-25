@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:4c1d95,100:0891b2&height=260&section=header&text=MITHUN%20APPUHAMY&fontSize=54&fontColor=e9d5ff&fontAlignY=42&desc=⟨%20agentic%20AI%20%C3%97%20devops%20%C3%97%20automation%20⟩&descSize=18&descColor=67e8f9&descAlignY=64" width="100%"/>
 
+<img src="./assets/agent-developer.svg" width="190" alt="Agent AI Engineer"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=2000&color=67E8F9&center=true&vCenter=true&width=860&height=40&lines=🎓+SLIIT+—+Sri+Lanka+Institute+of+Information+Technology,+Malabe;🏫+Joseph+Vaz+College,+Wennappuwa;Agentic+AI+·+DevOps+·+Cloud+·+Automation+🚀" />
 
 <br/><br/>
