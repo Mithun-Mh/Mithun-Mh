@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:4c1d95,100:0891b2&height=260&section=header&text=MITHUN%20APPUHAMY&fontSize=54&fontColor=e9d5ff&fontAlignY=42&desc=⟨%20agentic%20AI%20%C3%97%20devops%20%C3%97%20automation%20⟩&descSize=18&descColor=67e8f9&descAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:4c1d95,100:0891b2&height=260&section=header&text=MITHUN%20APPUHAMY&fontSize=54&fontColor=e9d5ff&fontAlignY=42&desc=Agentic%20AI%20%7C%20DevOps%20%7C%20Automation&descSize=18&descColor=67e8f9&descAlignY=64" width="100%"/>
 
-<img src="./assets/agent-developer.svg" width="190" alt="Agent AI Engineer"/>
+<img src="./assets/agent-developer.png" width="190" alt="Agent AI Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=2000&color=67E8F9&center=true&vCenter=true&width=860&height=40&lines=🎓+SLIIT+—+Sri+Lanka+Institute+of+Information+Technology,+Malabe;🏫+Joseph+Vaz+College,+Wennappuwa;Agentic+AI+·+DevOps+·+Cloud+·+Automation+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=2000&color=67E8F9&center=true&vCenter=true&width=860&height=40&lines=%F0%9F%8E%93%20SLIIT%20-%20Sri%20Lanka%20Institute%20of%20Information%20Technology%2C%20Malabe;%F0%9F%8F%AB%20Joseph%20Vaz%20College%2C%20Wennappuwa;Agentic%20AI%20%7C%20DevOps%20%7C%20Cloud%20%7C%20Automation%20%F0%9F%9A%80" alt="SLIIT Malabe and Joseph Vaz College Wennappuwa" />
+
+<h1 align="center">🎓 I AM GRADUATED IN HONS 🎓</h1>
+<h3 align="center">BSc (Hons) in Information Technology &nbsp;|&nbsp; SLIIT, Malabe</h3>
 
 <br/><br/>
 
@@ -22,7 +25,7 @@
 ```yaml
 name:        Mithun Appuhamy
 role:        Agentic AI Developer · DevOps · Automation
-education:   BSc (Hons) Information Technology — SLIIT, Malabe 🇱🇰
+education:   BSc (Hons) Information Technology (Graduated) — SLIIT, Malabe 🇱🇰
 school:      Joseph Vaz College, Wennappuwa
 mission:     Build AI agents that don't just answer — they act, ship and scale
 stack_mode:  [agentic_ai: 90%, devops: always_on, ui_ux: obsessed]
